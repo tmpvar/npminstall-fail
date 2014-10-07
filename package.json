@@ -1,0 +1,7 @@
+{
+  "name" : "npminstall-fail",
+  "version" : "1.0.0",
+  "dependencies" : {
+    "%%%%%%" : "1.0.0"
+  }
+}
